@@ -11,6 +11,8 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.78.0",
     "@auth/firebase-adapter": "^2.11.1",
+    "@slack/events-api": "^3.0.1",
+    "@slack/interactive-messages": "^2.0.2",
     "@slack/web-api": "^7.14.1",
     "firebase": "^12.10.0",
     "firebase-admin": "^13.7.0",
